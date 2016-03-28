@@ -469,7 +469,7 @@ header h1 {
 header h2 {
   width: 720px;
   margin-top: 0;
-  margin-bottom: 0;
+  margin-bottom: 400;
   font-size: 60px;
   font-weight: bold;
   line-height: 1.3;
