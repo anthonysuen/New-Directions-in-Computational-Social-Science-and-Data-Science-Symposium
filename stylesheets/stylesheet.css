@@ -448,8 +448,8 @@ a:hover {
 }
 
 header {
-  padding-top: 500px;
-  padding-bottom: 500px;
+  padding-top: 400px;
+  padding-bottom: 400px;
   font-family:'Helvetica Neue', Helvetica, Arial, sans serif;
   background: #2e7bcf url(../images/map_clusters_hi.jpg);
   border-bottom: solid 1px;
