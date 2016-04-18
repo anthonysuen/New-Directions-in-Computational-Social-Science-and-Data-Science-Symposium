@@ -1,0 +1,13 @@
+Counterfactual Inference Using Behavioral Models: An Application to Search Advertising
+Susan Athey
+
+When designing online advertising markets, it is challenging to use A/B testing to
+learn about the effects of policy changes.  An alternative is to build a statistical
+model and infer advertiser preferences, and use this model to estimate the effect of
+counterfactual policies.  An important characteristic of a successful model is that
+it accounts for heterogeneity in advertiser objectives as well as in the magnitudes
+of the parameters of their preferences.  We apply this method to a data set of search
+advertisers using a large-scale Bayesian model.  Results include the finding that
+advertisers who use "exact match" bidding tend to value impressions rather than clicks.
+We also evaluate revenue/efficiency tradeoffs involved in improved targeting of
+advertisements to users.
